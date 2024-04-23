@@ -5,8 +5,7 @@ This work was supported in part through computational resources and services pro
 
 ## tools used and citations for this image
 
-1. circo -  A tool for visualisation of large data. great resource for learning circo at [circo.ca](https://circos.ca/documentation/tutorials/)
-   
+1. circo -  A tool for visualisation of large data. great resource for learning circo at [circo.ca](https://circos.ca/documentation/tutorials/)  
 citation - Krzywinski, M. et al. Circos: an Information Aesthetic for Comparative Genomics. Genome Res (2009) 19:1639-1645
 2. Bedtops - a tool for genomic opertions such as file format conversion
 
