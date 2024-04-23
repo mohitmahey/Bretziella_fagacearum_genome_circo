@@ -10,5 +10,6 @@ citation - Krzywinski, M. et al. Circos: an Information Aesthetic for Comparativ
 3. BEDtools - a tool used for genome arithmetic
 citation - Quinlan AR and Hall IM, 2010. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 26, 6, pp. 841–842.
 
-## Pictue of the circo plot of 
+## Pictue of the circo plot of Bretziella fagacearum
 ![Circo plot](https://github.com/mohitmahey/Bretziella_fagacearum_genome_circo/blob/main/circos.png)
+the circo plot shows from outermost to innermost ring a) the length( MB) of the  chromosomes labeled one through nine. b) GC-content distribution with High GC(blue) and Low GC(yellow) regions. c) gene density of number of genes per 10kb of genomic region(0 - 0.006). d) position of genes across the whole genome.
