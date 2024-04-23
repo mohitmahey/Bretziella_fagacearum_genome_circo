@@ -1,0 +1,9 @@
+chr	-	scaffold_1	1	0	6030604	paired-9-qual-1
+chr	-	scaffold_2	2	0	4557430	paired-9-qual-2
+chr	-	scaffold_3	3	0	4385535	paired-9-qual-3
+chr	-	scaffold_4	4	0	2491222	paired-9-qual-4
+chr	-	scaffold_5	5	0	2231147	paired-9-qual-5
+chr	-	scaffold_6	6	0	2045753	paired-9-qual-6
+chr	-	scaffold_7	7	0	2010228	paired-9-qual-7
+chr	-	scaffold_8	8	0	1766506	paired-9-qual-8
+chr	-	scaffold_9	9	0	1554111	paired-9-qual-9
