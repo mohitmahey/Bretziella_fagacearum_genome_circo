@@ -1,5 +1,7 @@
 # Bretziella_fagacearum_genome_circo
-This repo would describe the method, code used and data acquistion for making circo plot of Bretziella fagacearum genome.
+This repo would describe the method, code used and data acquistion for making circo plot of *Bretziella fagacearum* genome.
+Please cite the original papers of all the tools used in making this beautiful circo plot.
+This work was supported in part through computational resources and services provided by the Institute for Cyber-Enabled Research at Michigan State University.
 
 ## tools used and citations for this image
 
