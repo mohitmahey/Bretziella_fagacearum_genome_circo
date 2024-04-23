@@ -11,4 +11,4 @@ citation - Krzywinski, M. et al. Circos: an Information Aesthetic for Comparativ
 citation - Quinlan AR and Hall IM, 2010. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 26, 6, pp. 841–842.
 
 ## Pictue of the circo plot of 
-[Circo plot](https://github.com/mohitmahey/Bretziella_fagacearum_genome_circo/blob/main/circos.png)
+![Circo plot](https://github.com/mohitmahey/Bretziella_fagacearum_genome_circo/blob/main/circos.png)
