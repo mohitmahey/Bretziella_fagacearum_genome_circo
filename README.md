@@ -15,7 +15,7 @@ This work was supported in part through computational resources and services pro
  **citation** - Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li, 
    Twelve years of SAMtools and BCFtools, GigaScience, Volume 10, Issue 2, February 2021, giab008, https://doi.org/10.1093/gigascience/giab008
 
-## Pictue of the circo plot of Bretziella fagacearum
+## Pictue of the circo plot of *Bretziella fagacearum* genome
 ![Circo plot](https://github.com/mohitmahey/Bretziella_fagacearum_genome_circo/blob/main/circos.png)
 the circo plot shows from outermost to innermost ring a) the length( MB) of the  chromosomes labeled one through nine. b) GC-content distribution with High GC(blue) and Low GC(yellow) regions. c) gene density of number of genes per 10kb of genomic region(0 - 0.006). d) position of genes across the whole genome.
 
