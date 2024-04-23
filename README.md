@@ -12,7 +12,7 @@ citation - Krzywinski, M. et al. Circos: an Information Aesthetic for Comparativ
 3. BEDtools - a tool used for genome arithmetic. \
  citation - Quinlan AR and Hall IM, 2010. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 26, 6, pp. 841–842.
 5. SAMtools - suite of tools of genomic data manupulation. \
-  \ citation - Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li, 
+ citation - Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li, 
    Twelve years of SAMtools and BCFtools, GigaScience, Volume 10, Issue 2, February 2021, giab008, https://doi.org/10.1093/gigascience/giab008
 
 ## Pictue of the circo plot of Bretziella fagacearum
