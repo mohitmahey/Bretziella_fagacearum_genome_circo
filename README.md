@@ -17,7 +17,7 @@ This work was supported in part through computational resources and services pro
 
 ## Picture of the circo plot of *Bretziella fagacearum* genome
 ![Circo plot](https://github.com/mohitmahey/Bretziella_fagacearum_genome_circo/blob/main/circos.png)
-the Circo plot shows from outermost to innermost ring a) the length (MBp) of the  chromosomes labeled one through nine. b) GC-content distribution with high GC(blue) and low GC(yellow) regions. c)gene density per 10kb of genomic region(0 - 0.006). d)Location of genes across the whole genome.
+the Circo plot shows from outermost to innermost ring a) the length (X10KB) of the  chromosomes labeled one through nine. b) GC-content distribution with high GC(blue) and low GC(yellow) regions. c)gene density per 10kb of genomic region(0 - 0.006). d)Location of genes across the whole genome.
 
 ## getting data files
 For the track data, genome file, and gff was used. For the Circo data, all the input files are in tab-delimited format.
