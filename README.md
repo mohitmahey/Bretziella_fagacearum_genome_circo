@@ -65,7 +65,7 @@ bedtools intersect -a genomic_regions.bed -b output_genes.gff3 -c > gene_counts_
 to calculate density we are will utilize awk 
 
 ```
-awk '{print $0, $NF/1000}' gene_counts_per_region.bed > gene_density_per_region.bed
+awk '{print $0, $NF/10000}' gene_counts_per_region.bed > gene_density_per_region.bed
 ```
 gene_density_per_region.bed file was renamed and saved as gene_density.txt 
 
